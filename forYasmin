@@ -1,0 +1,48 @@
+ <!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Сообщение для Балашки</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      color: #333;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+    }
+    p {
+      line-height: 1.6;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      color: white;
+      background: #0077cc;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+    a:hover {
+      background: #005fa3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Привет, это сделал Эрик в 23:05, 04.08.2025 для Балашки (Ясмин)</h1>
+  <p>
+    Привет, Ясмин. Я сегодня решил оставить о себе такую память. Если всё же у нас не получится что-то, я хочу, чтобы ты знала то, как я люблю, любил и буду — даже после прекращения общения. Как говорил, после тебя я стану мерзким человеком — не по отношению к тебе, не из мести. А по отношению ко всем другим девочкам. Ладно, не суть.
+  </p>
+  <p>
+    Так зачем я это всё сделал и скинул тебе пока мы общаемся? Я хочу, чтобы ты помнила обо мне хотя бы немного времени после прекращения общения. Помнила, на что готов человек ради другого, когда любит и ценит. Я этого хочу дать тебе понять этим, а никак не оскорбить.
+  </p>
+  <a href="https://youtube.com/shorts/XZQBSDLcRLY?si=PuTc2ZAPHhnVDhcd" target="_blank">Ссылка для Ясмин</a>
+</body>
+</html>
